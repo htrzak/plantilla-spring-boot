@@ -14,7 +14,7 @@
 	<name>prueba-spring-boot</name>
 	<description>Ejemplo project for Spring Boot micro-service</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
